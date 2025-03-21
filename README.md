@@ -69,8 +69,6 @@ Me chamo Carlos Alexandre Dias Messias de Lima, tenho 19 anos e moro na cidade d
 <br/>
 <br/>
 
----
-
 ### 📊 Estatísticas
 
 <p>
@@ -82,6 +80,6 @@ Me chamo Carlos Alexandre Dias Messias de Lima, tenho 19 anos e moro na cidade d
     <img
         align="left"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrediasss&theme=cobalt&layout=compact&custom_title=Tecnologias&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrediasss&theme=cobalt&custom_title=Tecnologias&include_all_commits=true&locale=pt-br"
     />
 </p>
