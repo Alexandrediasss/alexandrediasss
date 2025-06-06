@@ -1,6 +1,6 @@
 ## 💻 Alexandre Dias
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor`**
 
 Me chamo Carlos Alexandre Dias Messias de Lima, tenho 19 anos e moro na cidade de Manaus. Conclui o ensino médio na [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br/), com o curso técnico em informática. Atualmente estou cursando Sistemas de Informação no Centro Universitário [Fametro](https://fametro.edu.br/) e trabalho como desenvolvedor Frontend utilizando tecnologias como React Js e Bootstrap.
 
