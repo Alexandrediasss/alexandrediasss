@@ -2,16 +2,23 @@
 
 **`Desenvolvedor`**
 
-Me chamo Carlos Alexandre Dias Messias de Lima, tenho 20 anos e moro na cidade de Manaus. Conclui o ensino médio na [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br/), com o curso técnico em informática. Atualmente estou cursando Sistemas de Informação no Centro Universitário [Fametro](https://fametro.edu.br/), tenho experiência como desenvolvedor Frontend utilizando tecnologias como React Js e Bootstrap. Atualmente sou estudante da Apple Developer Academy de Manaus.
+Me chamo Carlos Alexandre Dias Messias de Lima, tenho 20 anos e moro na cidade de Manaus. Concluí o ensino médio na [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br/), com o curso técnico em informática. Atualmente estou cursando Sistemas de Informação no Centro Universitário [Fametro](https://fametro.edu.br/), tenho experiência como desenvolvedor Frontend utilizando tecnologias como React Js e Tailwind. Atualmente sou estudante da Apple Developer Academy de Manaus.
 
 #
 
 ### 🤖 Tecnologias
-<img
+<img 
     align="left"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    width="30" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
 <img 
@@ -21,12 +28,20 @@ Me chamo Carlos Alexandre Dias Messias de Lima, tenho 20 anos e moro na cidade d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-<img 
+<img
     align="left"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+
+<img
+    align="left"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
 <img 
     align="left"
     width="30px"
@@ -47,23 +62,44 @@ Me chamo Carlos Alexandre Dias Messias de Lima, tenho 20 anos e moro na cidade d
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+
 <img 
     align="left"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
+
 <img
     align="left"
     width="30px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+/>
+
+<img 
+    align="left" 
+    width="30" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+
+<img
+    align="left" 
+    style="padding-right: 10px;"
+    src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=apple&logoColor=white" 
+/>
+<img 
+    align="left" 
+    style="padding-right: 10px;"
+    src="https://img.shields.io/badge/SpriteKit-000000?style=flat-square&logo=apple&logoColor=white" 
 />
 
 <br/>
