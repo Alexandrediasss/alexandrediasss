@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Carlos Alexandre Dias Messias de Lima, tenho 20 anos e moro na cidade de Manaus. Concluí o ensino médio na [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br/), com o curso técnico em informática. Atualmente estou cursando Sistemas de Informação no Centro Universitário [Fametro](https://fametro.edu.br/), tenho experiência como desenvolvedor Frontend utilizando tecnologias como React Js e Tailwind. Atualmente sou estudante da Apple Developer Academy de Manaus.
+Me chamo Carlos Alexandre Dias Messias de Lima, tenho 21 anos e moro na cidade de Manaus. Concluí o ensino médio na [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br/), com o curso técnico em informática. Atualmente estou cursando Sistemas de Informação no Centro Universitário [Fametro](https://fametro.edu.br/), tenho experiência como desenvolvedor Frontend utilizando tecnologias como React Js e Tailwind. Atualmente sou estudante da Apple Developer Academy de Manaus.
 
 #
 
